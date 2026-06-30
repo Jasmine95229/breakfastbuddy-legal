@@ -1,7 +1,7 @@
 # Terms of Service
 
 **App Name:** BreakfastBuddy (早餐圖)
-**Last Updated:** 2026-05-04
+**Last Updated:** 2026-06-30
 **Effective Date:** 2026-05-04
 
 Welcome to BreakfastBuddy ("the App"). By downloading, installing, registering for, or using the App, you acknowledge that you have read and agree to these Terms of Service ("Terms"). If you do not agree, please do not use the App.
@@ -98,13 +98,16 @@ We may adjust subscription prices from time to time. Price changes will be annou
 
 ### 5.1 Your Content
 You retain all rights to the content you publish (images, comments).
-**To operate the service**, you grant us a **worldwide, non-exclusive, royalty-free, sublicensable** license to store, display, transmit, and resize/reformat (e.g., compression, thumbnail generation) your content **solely as needed to provide the App**.
+You grant us a **worldwide, non-exclusive, royalty-free, sublicensable** license to store, reproduce, display, transmit, and resize/reformat (e.g., compression, thumbnail generation) your content for the purposes of: (i) providing and improving the App; and (ii) promoting and marketing the App, including displaying it on our own official website and social media accounts (such as Instagram and Facebook).
 
 ### 5.2 Your Responsibility
 **You are solely responsible** for content you publish. We do not pre-screen all content but reserve the right to remove content under §3 at any time.
 
 ### 5.3 Our Content
 The App's code, UI, icons, trademarks, and the way AI responses are presented are the property of the developer, protected by copyright and other intellectual property laws.
+
+### 5.4 Featured Content
+We may periodically select popular breakfast images from the community (for example, the most-liked image each week) and display them on the App's official social media accounts to promote the App. Such display will be **anonymous** and will not include your real name, account, or other personally identifiable information. If you prefer your content not to be used this way, you may choose not to share to the community, or request removal of specific content at any time via "Settings → Contact Us."
 
 ---
 
