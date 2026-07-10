@@ -51,6 +51,7 @@ You **must not** do any of the following. Violations may result, **without prior
 5. **Technical abuse**: reverse engineering, bypassing security, attacking the servers, automated mass requests.
 6. **Impersonation**: impersonating other users, the developer, or government bodies.
 7. **Illegal activities**: any activity that violates applicable law.
+8. **Zero-Tolerance Policy**: This service has zero tolerance for objectionable, offensive, or illegal content and for users who harass, abuse, or act maliciously. You must not post or transmit pornographic, nude, violent, hateful, discriminatory, harassing, threatening, or otherwise objectionable content, and you must not harass, threaten, or abuse other users. We review reports within 24 hours and will remove violating content and suspend or permanently ban offending users without prior notice.
 
 We log violation events to assist in detecting repeated abuse. Repeated violations may result in permanent suspension.
 
